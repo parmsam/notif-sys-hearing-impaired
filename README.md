@@ -1,7 +1,7 @@
 # Open Source Notification System for the Hearing Impaired
 
 ## Motivation
-Hearing impaired individuals commonly use alerting devices for notification of an event taking place (a doorbell, a telephone, or alarm). [1,2] The landscape of alerting devices to notify hearing impaired individuals is expensive and has had seemingly limited attention from the open source community thus far. [3-5] Here we propose an open source notification box built around a Raspberry Pi to notify a hearing impaired individual of trigger sounds such as a baby crying or doorbell ringing in their surrounding environment, with build instructions made publicly available. This projet was created as part of the CS 498 Internet of Things class at University of Illinois Urbana-Champaign in Spring 2022. 
+Hearing impaired individuals commonly use alerting devices for notification of an event taking place (a doorbell, a telephone, or alarm). [1,2] The landscape of alerting devices to notify hearing impaired individuals is expensive and has had seemingly limited attention from the open source community thus far. [3-5] Here we propose an open source notification box built around a Raspberry Pi to notify a hearing impaired individual of trigger sounds such as a baby crying or doorbell ringing in their surrounding environment, with build instructions made publicly available. This project was created as part of the CS 498 Internet of Things class at University of Illinois Urbana-Champaign in Spring 2022. 
 
 ## Materials
 * Raspberry Pi 4
