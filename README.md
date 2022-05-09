@@ -5,7 +5,7 @@ Hearing impaired individuals commonly use alerting devices for notification of a
 
 ## Materials
 * Raspberry Pi 4
-* [USB Mini Microphone](https://www.amazon.com/SunFounder-Microphone-Raspberry-Recognition-Software/dp/B01KLRBHGM/)
+* [USB Conference Microphone](https://www.amazon.com/gp/product/B07PXQCYKV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 * Mini display for Raspberry Pi 4 
 
 ## References
