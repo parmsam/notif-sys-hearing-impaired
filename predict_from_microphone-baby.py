@@ -3,7 +3,7 @@ import time
 
 from micmon.audio import AudioDevice
 from micmon.model import Model
-from send_text.py import send_text
+from send_text import send_text
 
 # Path to a previously saved sound detection Tensorflow model
 model_dir = os.path.expanduser('~/models/sound-detect-baby')
