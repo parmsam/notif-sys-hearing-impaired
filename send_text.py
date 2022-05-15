@@ -26,5 +26,3 @@ def send_text(text):
         to= receiving_number,
         from_= twilio_number,
         body= text)
-
-send_text("pajamas")
