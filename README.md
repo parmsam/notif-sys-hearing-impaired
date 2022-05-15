@@ -12,6 +12,14 @@ Hearing impaired individuals commonly use alerting devices for notification of a
 ## Acknowledgements
 Credit to Fabio Manganiello for building the Micmon library used in this project. [6-7].
 
+## Programs
+* train-baby.py, train-dog.py - training scripts to build models for baby crying and dog barking
+* send_text.py - program to send text message to phone number via Twilio API
+* predict_from_microphone_baby.py, predict_from_microphone_dog.py - prediction programs for baby crying and dog barking audio recognition models
+* streamlit-app.py - prototype streamlit app 
+* datasets/ - datasets used to train models
+* models/ - models built using training programs and datasets
+
 ## References
 1. https://www.nidcd.nih.gov/health/assistive-devices-people-hearing-voice-speech-or-language-disorders
 2. https://www.healthyhearing.com/help/assistive-listening-devices/alerting-devices
