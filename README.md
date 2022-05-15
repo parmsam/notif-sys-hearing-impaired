@@ -9,12 +9,17 @@ Hearing impaired individuals commonly use alerting devices for notification of a
 * [USB Conference Microphone](https://www.amazon.com/gp/product/B07PXQCYKV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 * Mini display for Raspberry Pi 4 
 
+## Acknowledgements
+Credit to Fabio Manganiello for building the Micmon library used in this project. [6-7].
+
 ## References
 1. https://www.nidcd.nih.gov/health/assistive-devices-people-hearing-voice-speech-or-language-disorders
 2. https://www.healthyhearing.com/help/assistive-listening-devices/alerting-devices
 3. https://mn.gov/deaf-hard-of-hearing/assistive-technology/alerting-devices/
 4. https://github.com/search?q=alert+hearing+impaired
 5. https://github.com/search?q=alert+deaf
+6. https://github.com/BlackLight/micmon
+7. https://blog.platypush.tech/article/Create-your-smart-baby-monitor-with-Platypush-and-Tensorflow
 
 ## Team Members
 * Praveen Pathri
